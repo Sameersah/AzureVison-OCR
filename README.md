@@ -1,4 +1,4 @@
-# OCR Insights
+# AzureVison-OCR
 
 
 ## Project Overview
