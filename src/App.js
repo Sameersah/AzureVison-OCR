@@ -19,7 +19,7 @@ function App() {
     const formData = new FormData();
     formData.append('file', selectedImage);
 
-    const subscriptionKey = 'd87c878795404cb88b82359dcbba90d9';
+    const subscriptionKey = 'd87c878795404cb88b82359dbcba90d9';
     const endpoint = 'https://computer-vision-resource-cpme-255.cognitiveservices.azure.com/';
     const url = `${endpoint}/vision/v3.2/read/analyze`;
 
