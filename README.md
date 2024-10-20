@@ -41,10 +41,10 @@ npm start
 ## Steps to Configure Azure OCR API
 To use the OCR functionality, follow these steps:
 
-### Create an account on Microsoft Azure.
-### Go to the Azure Portal and create a new Cognitive Services resource for the OCR API.
-### Get your subscription key and endpoint URL from the Azure dashboard.
-### Store the key and endpoint URL in your project’s .env file:
+- Create an account on Microsoft Azure.
+- Go to the Azure Portal and create a new Cognitive Services resource for the OCR API.
+- Get your subscription key and endpoint URL from the Azure dashboard.
+- Store the key and endpoint URL in your project’s .env file:
 
 - REACT_APP_AZURE_OCR_KEY=your-azure-key
 - REACT_APP_AZURE_OCR_ENDPOINT=your-azure-endpoint
